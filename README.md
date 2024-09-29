@@ -2,84 +2,15 @@
 Just My todos
 
 
-
-
-
+Here are my Technical todos that I want to focus on 
 
 ### Production System Design
 
 |Resource|Progress|
 |---|---|
 |[Book: Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)|✅|
-|[Neetcode: System Design for Beginners](https://neetcode.io/courses/system-design-for-beginners/0)|✅|
-|[Neetcode: System Design Interview](https://neetcode.io/courses/system-design-interview)|✅|
-|[Datacamp: Customer Analytics & A/B Testing in Python](https://www.datacamp.com/courses/customer-analytics-ab-testing-in-python)|✅|
-|[Datacamp: A/B Testing in Python](https://www.datacamp.com/courses/ab-testing-in-python)|⬜|
-|[Udacity: A/B Testing](https://www.udacity.com/course/ab-testing--ud257)|⬜|
-|[Datacamp: MLOps Concepts](https://www.datacamp.com/courses/mlops-concepts)|✅|
-|[Datacamp: Machine Learning Monitoring Concepts](https://www.datacamp.com/courses/machine-learning-monitoring-concepts)|✅|
 
 
-### Maths
-	
-|Resource|Progress|
-|---|---|
-|[Datacamp: Foundations of Probability in Python](https://www.datacamp.com/courses/foundations-of-probability-in-python)|✅|
-|[Datacamp: Introduction to Statistics](https://www.datacamp.com/courses/introduction-to-statistics)|✅|
-|[Datacamp: Introduction to Statistics in Python](https://www.datacamp.com/courses/introduction-to-statistics-in-python)|✅|
-|[Datacamp: Hypothesis Testing in Python](https://www.datacamp.com/courses/hypothesis-testing-in-python)|✅|
-|[Datacamp: Statistical Thinking in Python (Part 1)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-1)|✅|
-|[Datacamp: Statistical Thinking in Python (Part 2)](https://www.datacamp.com/courses/statistical-thinking-in-python-part-2)|✅|
-|[Datacamp: Experimental Design in Python](https://datacamp.com/courses/experimental-design-in-python)|✅|
-|[Datacamp: Practicing Statistics Interview Questions in Python](https://www.datacamp.com/courses/practicing-statistics-interview-questions-in-python)|⬜|
-|[edX: Essential Statistics for Data Analysis using Excel](https://www.edx.org/course/essential-statistics-data-analysis-using-microsoft-dat222x-1)|✅|
-|[Udacity: Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)|✅|
-|[MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)|✅|
-|[Udacity: Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)|✅|
-|[Udacity: Linear Algebra Refresher](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)|⬜|
-|[Youtube: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)|⬜|
-
-### Basic Frontend Knowledge
-<hr>
-
-### HTML
-
-|Resource|Progress|
-|---|---|
-|[Codecademy: Learn HTML](https://www.codecademy.com/learn/learn-html)|✅|
-|[Codecademy: Make a website](https://www.codecademy.com/en/courses/make-a-website)|✅|
-
-### CSS
-
-|Resource|Progress|
-|---|---|
-|[Pluralsight: CSS Positioning](https://www.pluralsight.com/courses/css-positioning-1834)|✅|
-|[Pluralsight: Introduction to CSS](https://www.pluralsight.com/courses/css-intro)|✅|
-|[Pluralsight: CSS: Specificity, the Box Model, and Best Practices](https://app.pluralsight.com/interactive-courses/detail/c580b092-d94a-4ed8-8d2a-2f4d0b76f99f)|✅|
-|[Pluralsight: CSS: Using Flexbox for Layout](https://app.pluralsight.com/interactive-courses/detail/a089d0a5-4a4c-4c4e-b883-c1bc64009619)|✅|
-|[Code School: Blasting Off with Bootstrap](https://www.pluralsight.com/courses/code-school-blasting-off-with-bootstrap)|✅|
-|[Pluralsight: UX Fundamentals](https://www.pluralsight.com/courses/ux-fundamentals-2426)|✅|
-|[Codecademy: Learn SASS](https://www.codecademy.com/learn/learn-sass)|✅|
-|[CSS for Javascript Developers](https://css-for-js.dev/)|4/11|
-|[Book: Refactoring UI](https://refactoringui.com/book/)|⬜|
-
-
-### JavaScript
-
-|Resource|Progress|
-|---|---|
-|[Udacity: ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)|✅|
-|[Udacity: Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)|✅|
-|[Udacity: Object Oriented JS 1](https://www.udacity.com/course/object-oriented-javascript--ud015)|✅|
-|[Udacity: Object Oriented JS 2](https://www.udacity.com/course/object-oriented-javascript--ud711)|✅|
-|[Udemy: Understanding Typescript](https://www.udemy.com/understanding-typescript/)|✅|
-|[Codecademy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)|✅|
-|[Codecademy: Jquery Track](https://www.codecademy.com/learn/learn-jquery)|✅|
-|[Pluralsight: Using The Chrome Developer Tools](https://www.pluralsight.com/courses/chrome-developer-tools)|✅|
-
-
-## Specialized Topics
-<hr>
 
 ### Machine Learning
 
