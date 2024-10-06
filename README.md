@@ -20,6 +20,13 @@ Here are my Technical todos that I want to focus on
 |[Book: Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)|⬜|
 
 
+### [CodeCrafters](https://app.codecrafters.io/catalog)
+
+|Resource|Progress|
+|---|---|
+|[Build your own Kafka (python)](https://app.codecrafters.io/courses/kafka/setup?repo=dd71bc1c-65a7-4d68-bbc1-f462b11543cc)|⬜|
+|[Build your own Bittorrent(python](https://app.codecrafters.io/courses/bittorrent/setup?repo=e1d1daa0-d0f4-419a-8666-c3399d81cb13)|⬜|
+
 
 ### Machine Learning
 
